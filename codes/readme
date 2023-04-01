@@ -1,1 +1,3 @@
+# This PERL script (synteny.pl) extracts NUMTs that are located in the same genome microsynteny between two species. The two input files are the table containing NUMT names and their corresponding 10 protein-coding genes (both upstream and downstream). The specific format for the input files is required. Please see the input examples 'molossus.txt' and 'myotis.txt'.
 
+# This R script (Coverage_simulation.R) is to generate the simulation data of NUMT mtDNA coverage and perform pairwise comparisons between 320 windows representing 16,000 bp in mtDNA. The input data (list) contains the mtDNA coverage for each of 45 species.
