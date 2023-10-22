@@ -1,7 +1,7 @@
 # This R script is to generate the simulation data of NUMT mtDNA coverage and perform pairwise comparisons between 320 windows representing 16,000 bp in mtDNA. The input data (list) contains the mtDNA coverage for each of 45 species.
 
 
-#Coverage data for each species
+#Length of NUMTs for each species. The information is stored in the file 'NUMT_length_species.txt'.
 
 list=list(Shar,	Pdis,	Mmyo,	Pkuh,	Mmol,	Raeg,	Rfer,	Btau,	Oorc,	Sscr,	Cfer,	Csim,	Ecab,	Mjav,	Fcat,	Hhya,	Cfam,	Mput,	Zcal,	Ccri,	Eeur,	Sara,	Moch,	Mmus,	Rnor,	Hgla,	Svul,	Ocun,	Opri,	Tbel,	Mmur,	Ogar,	Sbol,	Ptro,	Hsap,	Mfas,	Dnov,	Tman,	Lafr,	Eedw,	Etel,	Mdom,	Vurs,	Glea,	Oana) 
 
